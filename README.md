@@ -15,7 +15,12 @@
    ![CPC](vizs/CPC.png)
    ![AOV](vizs/AOV.png)
 4. Look into the influencer category and see which campaign performs well based on the key metrics mentioned above
-5. Dig into other factors that might affect the campaign through a more thorough analytics tool platform to derive more related data for analysis (due to data constraints, I can't perform any method for this step)
+5. Further Analysis Recommendations after step 4 (due to data constraints, step 5 and further steps require more data to conduct the analysis)
+   - Segmentation Analysis: Look at how different segments (e.g., age, region, device) within the influencer category react differently to campaigns.
+   - Temporal Trends: Analyze how the performance metrics change over time to identify seasonal effects or trends.
+   - Competitive Benchmarking: Compare these metrics not only within campaigns but against industry standards or competitors.
+6. Leveraging Advanced Analytics Platforms
+   - Use platforms like Google Analytics, Tableau, or SEMrush to derive deeper insights such as user behavior, conversion paths, and more. Also, consider predictive analytics to forecast future campaign performances based on historical data (ARIMA time series analysis could be one of the options).
 
 
 ### Linear Regression Analysis - Statistical approach (WIP)
