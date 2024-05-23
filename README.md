@@ -14,8 +14,6 @@ _**Result**_
 - Clicks: not statistically significant (p = 0.127). This might indicate potential benefits from clicks, but not strong enough to be reliably detected in this model.
 - **Leads: Very strong positive effect (1677.4588) and highly significant (p = 0.000). This suggests that leads are a strong driver of revenue in this dataset.**
 
-![Revenue, Impressions & Market Spent Plot](vizs/Over_Time.png)
-
 ## Dataset Overview
  This digital marketing dataset is from [Kaggle](https://www.kaggle.com/datasets/sinderpreet/analyze-the-marketing-spending/data)
  The marketing CSV file contains data on various campaigns and their performance metrics. It includes columns such as:
