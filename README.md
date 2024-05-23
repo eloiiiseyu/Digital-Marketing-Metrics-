@@ -6,7 +6,7 @@
 - Linear Regression models can understand how the value of one variable changes with respect to others.
 - For analyzing influencer data, this method is used to explore how well predictors like impressions, clicks, and marketing spend explain the variance in revenue.
 
-_**Result**__
+_**Result**_
 - R-squared (0.904): Indicates that approximately 90.4% of the variability in revenue is explained by the model. 
 - Impressions: It's statistically significant (p = 0.037), indicating a reliable effect at conventional significance levels.
 - Marketing Spent: not statistically significant (p = 0.091). This might suggest inefficient spending or a saturation of returns on investment in marketing.
