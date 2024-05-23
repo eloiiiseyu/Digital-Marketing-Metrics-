@@ -3,7 +3,12 @@
  
 ## My draft thought process for analyzing the effectiveness of influencer compaigns specifically for this project and this data set
 1. Define key metrics to use to evaluate the performance of each campaigns, such as ROI, click-through rate (CTR), cost per click (CPC), customer acquisition cost (CAC), and average order on value (AOV)
-2. Visualize data by category and campaigns
+   - Return on Investment (ROI): Measures the profitability of the campaign, calculated as(Revenue − Marketing Spend)/Marketing Spend×100
+   - Click-Through Rate (CTR): Measures the effectiveness of the campaign in generating interest, calculated as (Clicks/Impressions)×100
+   - Cost Per Click (CPC): Measures the cost efficiency of the campaign in generating clicks, calculated as Marketing Spend/Clicks
+   - Customer Acquisition Cost (CAC): Measures the cost incurred to acquire a new customer, calculated as Marketing Spend/Leads
+   - Average Order Value (AOV): Measures the average revenue generated per order, calculated as Revenue/Orders
+3. Visualize data by category and campaigns
    ![ROI](vizs/ROI.png)
    ![CTR](vizs/CTR.png)
    ![CAC](vizs/CAC.png)
