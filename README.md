@@ -7,7 +7,6 @@
 ### Linear Regression Analysis
 - Linear Regression models can understand how the value of one variable changes with respect to others.
 - For analyzing influencer data, this method is used to explore how well predictors like impressions, clicks, and marketing spend explain the variance in revenue.
-![Linear Regression Model Summary](vizs/regression.png)
 
 _**Result**_
 - R-squared (0.904): Indicates that approximately 90.4% of the variability in revenue is explained by the model. 
@@ -15,6 +14,7 @@ _**Result**_
 - Marketing Spent: not statistically significant (p = 0.091). This might suggest inefficient spending or a saturation of returns on investment in marketing.
 - Clicks: not statistically significant (p = 0.127). This might indicate potential benefits from clicks, but not strong enough to be reliably detected in this model.
 - **Leads: Very strong positive effect (1677.4588) and highly significant (p = 0.000). This suggests that leads are a strong driver of revenue in this dataset.**
+![Linear Regression Model Summary](vizs/regression.png)
 
 ## Dataset Overview
  This digital marketing dataset is from [Kaggle](https://www.kaggle.com/datasets/sinderpreet/analyze-the-marketing-spending/data)
