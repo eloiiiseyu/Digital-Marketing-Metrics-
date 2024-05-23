@@ -1,14 +1,19 @@
 # Digital Marketing Metrics Analytics
  Unlocking marketing strategy performance through measuring digial marketing metrics using Python.
+ 
 ## My draft thought process for analyzing the effectiveness of influencer compaigns specifically for this project and this data set
-1. Define key metrics to use to evaluate the performance of each campaigns, such as ROI, click-through rate, cost per click, customer acquisition cost (CAC), and average order on value
+1. Define key metrics to use to evaluate the performance of each campaigns, such as ROI, click-through rate (CTR), cost per click (CPC), customer acquisition cost (CAC), and average order on value (AOV)
 2. Visualize data by category and campaigns
    ![ROI](vizs/ROI.png)
    ![CTR](vizs/CTR.png)
+   ![CAC](vizs/CAC.png)
+   ![CPC](vizs/CPC.png)
+   ![AOV](vizs/AOV.png)
+4. Look into the influencer category and see which campaign performs well based on the key metrics mentioned above
+5. Dig into other factors that might affect the campaign through a more thorough analytics tool platform to derive more related data for analysis (due to data constraints, I can't perform any method for this step)
 
 
-
-### Linear Regression Analysis - A more statistical approach
+### Linear Regression Analysis - A more statistical approach (WIP)
 1. Conducted statistical models to see the relationship between each predictor and revenue (dependent variable)
 2. Got an overview of which variable is statiscally important to dig into more key metrics related to the variable
 
