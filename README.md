@@ -1,6 +1,8 @@
 # Digital Marketing Metrics Analytics
  Unlocking marketing strategy performance through measuring digial marketing metrics using Python.
-## This is a draft model for analyzing the effectiveness of influencer compaigns
+## Here is my draft thought process for analyzing the effectiveness of influencer compaigns specifically for this project and this data set
+1. Conducted statistical models to see the relationship between each predictor and revenue (dependent variable)
+2. Got an overview of which variable is statiscally important to dig into more key metrics related to the variable
 
 ### Linear Regression Analysis
 - Linear Regression models can understand how the value of one variable changes with respect to others.
