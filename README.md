@@ -1,4 +1,5 @@
 # Digital Marketing Metrics Analytics
+## This is a draft model for analyzing the effectiveness of influencer compaigns
  Unlocking marketing strategy performance through measuring digial marketing metrics using Python.
 
 ## Dataset Overview
@@ -16,4 +17,4 @@
  - orders: Number of orders made
  - revenue: Revenue generated from the campaign
    
-## This is a draft model for analyzing the effectiveness of influencer compaigns
+
