@@ -2,7 +2,7 @@
  Unlocking marketing strategy performance through measuring digial marketing metrics using Python.
  
 ## My draft thought process for analyzing the effectiveness of influencer compaigns specifically for this project and this data set
-1. Define key metrics to use to evaluate the performance of each campaigns, such as ROI, click-through rate (CTR), cost per click (CPC), customer acquisition cost (CAC), and average order on value (AOV)
+1. Define key metrics to evaluate the performance of each campaigns, such as ROI, click-through rate (CTR), cost per click (CPC), customer acquisition cost (CAC), and average order on value (AOV)
    - Return on Investment (ROI): Measures the profitability of the campaign, calculated as(Revenue − Marketing Spend)/Marketing Spend×100
    - Click-Through Rate (CTR): Measures the effectiveness of the campaign in generating interest, calculated as (Clicks/Impressions)×100
    - Cost Per Click (CPC): Measures the cost efficiency of the campaign in generating clicks, calculated as Marketing Spend/Clicks
