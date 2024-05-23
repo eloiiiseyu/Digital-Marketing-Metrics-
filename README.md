@@ -1,7 +1,7 @@
 # Digital Marketing Metrics Analytics
  Unlocking marketing strategy performance through measuring digial marketing metrics using Python.
 ## This is a draft model for analyzing the effectiveness of influencer compaigns
-![Revenue, Impressions & Market Spent Plot](Over_time.png)
+![Revenue, Impressions & Market Spent Plot](Over_Time.png)
 
 ## Dataset Overview
  This digital marketing dataset is from [Kaggle](https://www.kaggle.com/datasets/sinderpreet/analyze-the-marketing-spending/data)
