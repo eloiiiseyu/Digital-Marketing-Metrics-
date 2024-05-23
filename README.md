@@ -13,7 +13,7 @@
 5. Dig into other factors that might affect the campaign through a more thorough analytics tool platform to derive more related data for analysis (due to data constraints, I can't perform any method for this step)
 
 
-### Linear Regression Analysis - A more statistical approach (WIP)
+### Linear Regression Analysis - Statistical approach (WIP)
 1. Conducted statistical models to see the relationship between each predictor and revenue (dependent variable)
 2. Got an overview of which variable is statiscally important to dig into more key metrics related to the variable
 
