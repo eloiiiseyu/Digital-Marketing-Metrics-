@@ -1,10 +1,17 @@
 # Digital Marketing Metrics Analytics
  Unlocking marketing strategy performance through measuring digial marketing metrics using Python.
-## Here is my draft thought process for analyzing the effectiveness of influencer compaigns specifically for this project and this data set
+## My draft thought process for analyzing the effectiveness of influencer compaigns specifically for this project and this data set
+1. Define key metrics to use to evaluate the performance of each campaigns, such as ROI, click-through rate, cost per click, customer acquisition cost (CAC), and average order on value
+2. Visualize data by category and campaigns
+   ![ROI](vizs/ROI.png)
+   ![CTR](vizs/CTR.png)
+
+
+
+### Linear Regression Analysis - A more statistical approach
 1. Conducted statistical models to see the relationship between each predictor and revenue (dependent variable)
 2. Got an overview of which variable is statiscally important to dig into more key metrics related to the variable
 
-### Linear Regression Analysis
 - Linear Regression models can understand how the value of one variable changes with respect to others.
 - For analyzing influencer data, this method is used to explore how well predictors like impressions, clicks, and marketing spend explain the variance in revenue.
 
